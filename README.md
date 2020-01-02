@@ -4,7 +4,7 @@ Simple example of CRUD with sequelize and JWT authentication using express.
 
 # Pre-requisites ( Optional )
 - Docker with Postgres ( docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres )
-- Insomnia ( https://insomnia.rest/download/ ) `Existe a file JSON para importe in project`
+- Insomnia ( https://insomnia.rest/download/ ) `There is a JSON file to import in insomnia.`
 
 # Usage
 - To begin with, the following steps should be followed:
